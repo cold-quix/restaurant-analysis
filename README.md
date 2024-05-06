@@ -24,5 +24,5 @@ Program flow:
 - The instructions say to save a sales item's quantity and menu item ID as seprate variables, but only the sales item ID is needed to check the presence of a sales item in the report. The quantity is not used as its own variable.
 - The exact formatting of the error message does not work with the way I have made the for-loops, but the meaning is still the same.
 - The loop that involves copying values to the final report could probably be organized better and have some logic exported to a function, but that would only a handful of lines of code.
-- The instructions for data analysis mention calculating the most profitable menu item with the date and amount, but the exact date is not needed to determine this (profitability = revenue/time).
+- The instructions for data analysis mention calculating the most profitable menu item with the date and amount, but the exact date is not needed to determine this.
 - The above is true for the most costly menu item.
