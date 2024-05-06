@@ -1,10 +1,5 @@
-FILE			: main.ipynb
-PROJECT			: Shaolin AI Assignment 2
-PROGRAMMER		: Jack parkinson
-FIRST VERSION	: 2024-Mar-24
-DESCRIPTION		:
-	This file reads in data from two .CSV files and cross-references them to create a report, then analyzes that report. Both the report and the analysis are output as .txt files.
-	The PySteak.py file was included with the assignment (for context, I guess?) but I did not use it. I am including it here for posterity.
+Description:
+This program reads in data from two .CSV files and cross-references them to create a report, then analyzes that report. Both the report and the analysis are output as .txt files. The PySteak.py file was included with the assignment (for context, I guess?) but I did not use it. I am including it here for posterity.
 
 Program flow:
 - Read in CSV data for Menu and Sales into list objects.
